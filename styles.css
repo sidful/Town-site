@@ -26,6 +26,12 @@ body {
     align-content: center;
 }
 
+#top-txt{
+    padding: 25px 0;
+    font-family: myFirst;
+    font-size: 40px;
+}
+
 #middle{
     display:flex ;
     color: black;
