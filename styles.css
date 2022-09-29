@@ -1,0 +1,118 @@
+html{
+    height: 100%;
+}
+
+@font-face{
+    src: url(images/Bombing.ttf);
+    font-family: myFirst;
+}
+
+body {
+    text-align: center;
+    margin: 0px;
+}
+
+#top-img{
+    color: white;
+    text-shadow: 0 0 2px green;
+    background-image: url("images/big-tree.jpg");
+    background-size: 100% 100%;
+    border: 2px solid blue;
+    background-repeat: no-repeat;
+    font-family: myFirst;
+    font-size: 40px;
+    min-height: 200px;
+    max-height: auto;
+    align-content: center;
+}
+
+#middle{
+    display:flex ;
+    color: black;
+    justify-content: space-around;
+    flex-direction: row;
+    padding: 0px;
+    margin: 0px;
+    font-size: small;
+}
+
+.border-b{
+    border: 2px solid blue;
+}
+
+.border-a{
+    border: 2px solid red;
+}
+.border-c{
+    border: 2px solid orange;
+}
+
+.border-d{
+    border: 2px solid green;
+}
+
+.border-e{
+    border: 2px solid palevioletred;
+}
+
+.border-f{
+    border: 2px solid yellow;
+}
+
+.border-g{
+    border: 2px solid pink;
+}
+
+#frog-img{
+    width: 100px;
+    border-radius: 50%;
+    padding: 0;
+}
+
+#flower-img{
+    width: 100px;
+    padding: 0;
+    border-radius: 50%;
+}
+
+#green-img{
+    width: 100px;
+    padding: 0;
+    border-radius: 50%;
+}
+
+#sub-title{
+    margin: 0;
+    padding: 10px;
+}
+#everything-mid{
+    background: #e6efe9;
+}
+
+#mid-txt{
+    color: red;
+}
+
+#bottom-color{
+    background: white;
+}
+
+#bottom-card{
+    background-color: #A6CFD5;
+    border: 2px solid forestgreen;
+    width: 400px;
+    margin: 35px auto;
+    text-align: center;
+    padding: 15px ;
+    display: flex;
+    justify-content: space-around;
+    color: #2b2839;
+}
+
+#avatar{
+    width: 150px;
+    border-radius: 50%;
+}
+
+
+
