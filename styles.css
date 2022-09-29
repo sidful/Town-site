@@ -90,7 +90,8 @@ body {
 }
 
 #mid-txt{
-    color: red;
+    color: 0;
+    padding: 10px;
 }
 
 #bottom-color{
