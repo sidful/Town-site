@@ -19,17 +19,15 @@ body {
     background-image: url("images/big-tree.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    font-family: myFirst;
-    font-size: 40px;
     min-height: 200px;
     max-height: auto;
     align-content: center;
 }
 
 #top-txt{
-    padding: 25px 0;
+    padding: 50px 0;
     font-family: myFirst;
-    font-size: 40px;
+    font-size: 50px;
 }
 
 #middle{
